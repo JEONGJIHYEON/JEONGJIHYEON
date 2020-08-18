@@ -2,9 +2,9 @@
 
 JEONG JIHYEON, KYUNGHEE UNIVERSITY SOFTWARE CONVERGENCE
 
-PYTHON
-C++
-C(~ing) 
+PYTHON \n
+C++ \n
+C(~ing)  \n
  - Uploading records on tistory: https://what-you-wanted.tistory.com/
 
 Learning how to use github;
